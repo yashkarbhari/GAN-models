@@ -2,4 +2,4 @@
 
 1) GAN: Generative Adverserial Networks
 
-2) DCGAN
+2) DCGAN: Deep Convolutional Generative Adverserial Networks
