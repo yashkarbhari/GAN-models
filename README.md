@@ -4,4 +4,4 @@
 
 2) DCGAN: Deep Convolutional Generative Adverserial Networks
 
-3)CGAN: Conditional GAN 
+3) CGAN: Conditional GAN 
